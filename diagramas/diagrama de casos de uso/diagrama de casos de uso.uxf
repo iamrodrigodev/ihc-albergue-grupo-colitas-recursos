@@ -1,0 +1,31 @@
+<diagram program="umletino" version="15.1"><zoom_level>9</zoom_level><help_text>web grupo colitas</help_text><element><id>UMLActor</id><coordinates><x>297</x><y>558</y><w>54</w><h>99</h></coordinates><panel_attributes>Usuario</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>540</x><y>549</y><w>126</w><h>81</h></coordinates><panel_attributes>Vizualizar el home del
+grupo colitas</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>945</x><y>549</y><w>126</w><h>81</h></coordinates><panel_attributes>Realizar una peticion
+de ayuda a las 
+esterilizaciones</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>738</x><y>423</y><w>126</w><h>81</h></coordinates><panel_attributes>Vizualizar la mision 
+y vision del grupo 
+colitas</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>729</x><y>540</y><w>144</w><h>99</h></coordinates><panel_attributes>Vizualizar informacion 
+acerca de la 
+campaña de 
+esterilizacion</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>864</x><y>567</y><w>99</w><h>36</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>90;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>594</x><y>459</y><w>162</w><h>108</h></coordinates><panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes><additional_attributes>160;10;10;100</additional_attributes></element><element><id>Relation</id><coordinates><x>657</x><y>576</y><w>90</w><h>36</h></coordinates><panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes><additional_attributes>80;20;10;20</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>945</x><y>432</y><w>126</w><h>81</h></coordinates><panel_attributes>Ver videos 
+informativos
+acerca de las
+esterilizaciones</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>801</x><y>468</y><w>162</w><h>90</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>160;10;10;80</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>729</x><y>666</y><w>144</w><h>99</h></coordinates><panel_attributes>Contactarse con 
+el grupo colitas</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>594</x><y>621</y><w>153</w><h>108</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>150;100;10;10</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>729</x><y>792</y><w>144</w><h>99</h></coordinates><panel_attributes>Vizualizar las 
+redes sociales del
+grupo colitas</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>576</x><y>621</y><w>171</w><h>234</h></coordinates><panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes><additional_attributes>170;240;10;10</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>738</x><y>315</y><w>126</w><h>81</h></coordinates><panel_attributes>Vizualizar el menu
+de la pagina principal</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>585</x><y>360</y><w>171</w><h>207</h></coordinates><panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes><additional_attributes>170;10;10;210</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>945</x><y>108</y><w>126</w><h>81</h></coordinates><panel_attributes>Seleccionar la 
+seccion de adoptar</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>945</x><y>315</y><w>126</w><h>81</h></coordinates><panel_attributes>Seleccionar la 
+seccion de voluntariado</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>945</x><y>216</y><w>126</w><h>81</h></coordinates><panel_attributes>Seleccionar la 
+seccion de donaciones</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>855</x><y>333</y><w>108</w><h>36</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>100;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>846</x><y>243</y><w>117</w><h>108</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>110;10;10;100</additional_attributes></element><element><id>Relation</id><coordinates><x>810</x><y>153</y><w>153</w><h>180</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>150;10;10;180</additional_attributes></element><element><id>Relation</id><coordinates><x>342</x><y>567</y><w>216</w><h>36</h></coordinates><panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes><additional_attributes>220;20;10;20</additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>513</x><y>90</y><w>594</w><h>810</h></coordinates><panel_attributes>
+Web grupo colitas</panel_attributes><additional_attributes></additional_attributes></element></diagram>
