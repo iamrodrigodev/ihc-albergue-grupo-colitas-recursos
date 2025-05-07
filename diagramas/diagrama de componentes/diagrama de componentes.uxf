@@ -1,36 +1,36 @@
-<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLGeneric</id><coordinates><x>300</x><y>250</y><w>320</w><h>140</h></coordinates><panel_attributes>symbol=component
-Gestion de adopciones</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>660</x><y>250</y><w>320</w><h>140</h></coordinates><panel_attributes>symbol=component
-Gestion de voluntariados</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>660</x><y>430</y><w>320</w><h>140</h></coordinates><panel_attributes>symbol=component
-Gestion de campañas</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>300</x><y>430</y><w>320</w><h>140</h></coordinates><panel_attributes>symbol=component
-Gestion de donaciones</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>590</x><y>700</y><w>150</w><h>60</h></coordinates><panel_attributes>symbol=component
+<diagram program="umletino" version="15.1"><zoom_level>8</zoom_level><element><id>UMLGeneric</id><coordinates><x>592</x><y>704</y><w>152</w><h>56</h></coordinates><panel_attributes>symbol=component
 Base de datos
-Grupo colitas</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>310</x><y>300</y><w>130</w><h>70</h></coordinates><panel_attributes>symbol=component
+Grupo colitas</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>720</x><y>432</y><w>104</w><h>56</h></coordinates><panel_attributes>symbol=component
 Gestion 
 de adopciones 
-Fronted</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>480</x><y>300</y><w>130</w><h>80</h></coordinates><panel_attributes>symbol=component
+Fronted</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>376</x><y>432</y><w>104</w><h>64</h></coordinates><panel_attributes>symbol=component
 &lt;&lt;Servicio&gt;&gt;
 Gestion 
 de adopciones 
-Backend</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>670</x><y>300</y><w>130</w><h>70</h></coordinates><panel_attributes>symbol=component
+Backend</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>864</x><y>528</y><w>104</w><h>56</h></coordinates><panel_attributes>symbol=component
 Gestion 
 de voluntariados
-Fronted</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>840</x><y>300</y><w>130</w><h>80</h></coordinates><panel_attributes>symbol=component
+Fronted</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>504</x><y>536</y><w>104</w><h>64</h></coordinates><panel_attributes>symbol=component
 &lt;&lt;Servicio&gt;&gt;
 Gestion 
 de voluntariados
-Backend</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>310</x><y>480</y><w>130</w><h>70</h></coordinates><panel_attributes>symbol=component
+Backend</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>720</x><y>528</y><w>104</w><h>56</h></coordinates><panel_attributes>symbol=component
 Gestion 
 de donaciones
-Fronted</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>480</x><y>480</y><w>130</w><h>80</h></coordinates><panel_attributes>symbol=component
+Fronted</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>368</x><y>536</y><w>104</w><h>64</h></coordinates><panel_attributes>symbol=component
 &lt;&lt;Servicio&gt;&gt;
 Gestion 
 de donaciones
-Backend</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>670</x><y>480</y><w>130</w><h>70</h></coordinates><panel_attributes>symbol=component
+Backend</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>864</x><y>432</y><w>104</w><h>56</h></coordinates><panel_attributes>symbol=component
 Gestion 
 de campañas
-Fronted</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>840</x><y>480</y><w>130</w><h>80</h></coordinates><panel_attributes>symbol=component
+Fronted</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>512</x><y>432</y><w>104</w><h>64</h></coordinates><panel_attributes>symbol=component
 &lt;&lt;Servicio&gt;&gt;
 Gestion 
 de campañas
-Backend</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>260</x><y>200</y><w>760</w><h>400</h></coordinates><panel_attributes>Grupo Colitas Arequipa Web</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>560</x><y>660</y><w>210</w><h>120</h></coordinates><panel_attributes>Base de datos Grupo colitas</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>640</x><y>590</y><w>30</w><h>90</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;10;10;70</additional_attributes></element><element><id>Relation</id><coordinates><x>790</x><y>330</y><w>70</w><h>30</h></coordinates><panel_attributes>lt=&lt;..</panel_attributes><additional_attributes>50;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>430</x><y>330</y><w>70</w><h>30</h></coordinates><panel_attributes>lt=&lt;..</panel_attributes><additional_attributes>50;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>430</x><y>510</y><w>70</w><h>30</h></coordinates><panel_attributes>lt=&lt;..</panel_attributes><additional_attributes>50;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>790</x><y>510</y><w>70</w><h>30</h></coordinates><panel_attributes>lt=&lt;..</panel_attributes><additional_attributes>50;10;10;10</additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>620</x><y>80</y><w>160</w><h>60</h></coordinates><panel_attributes>symbol=component
-Google Chrome</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>600</x><y>40</y><w>210</w><h>120</h></coordinates><panel_attributes>PC</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>690</x><y>150</y><w>30</w><h>90</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;10;10;70</additional_attributes></element></diagram>
+Backend</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>336</x><y>352</y><w>672</w><h>280</h></coordinates><panel_attributes>Grupo colitas web</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>544</x><y>656</y><w>248</w><h>136</h></coordinates><panel_attributes>Base de datos Grupo colitas</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>560</x><y>208</y><w>128</w><h>40</h></coordinates><panel_attributes>symbol=component
+Google Chrome</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>544</x><y>176</y><w>336</w><h>144</h></coordinates><panel_attributes>Dispositivos</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>728</x><y>208</y><w>128</w><h>40</h></coordinates><panel_attributes>symbol=component
+Android</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>640</x><y>264</y><w>128</w><h>40</h></coordinates><panel_attributes>symbol=component
+iOS</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>352</x><y>392</y><w>288</w><h>224</h></coordinates><panel_attributes>symbol=component
+Grupo colitas Backend</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>696</x><y>392</y><w>296</w><h>224</h></coordinates><panel_attributes>symbol=component
+Grupo colitas fronted</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>632</x><y>488</y><w>80</w><h>24</h></coordinates><panel_attributes>lt=&lt;..</panel_attributes><additional_attributes>10;10;80;10</additional_attributes></element><element><id>Relation</id><coordinates><x>696</x><y>624</y><w>24</w><h>64</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;10;10;60</additional_attributes></element><element><id>Relation</id><coordinates><x>704</x><y>312</y><w>24</w><h>72</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;10;10;70</additional_attributes></element></diagram>
